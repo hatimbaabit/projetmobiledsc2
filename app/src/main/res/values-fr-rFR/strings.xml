@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet Mobile DSC2</string>
+    <string name="button_next">Suivant</string>
+    <string name="button_add">AJOUTER</string>
+    <string name="hint_form_add">Ecrivez votre texte ici...</string>
+</resources>
