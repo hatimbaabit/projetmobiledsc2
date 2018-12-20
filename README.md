@@ -1,4 +1,4 @@
-# projet mobile master dsc 2 , Hatim BAABIT
+# projet mobile master2 DSC , Hatim BAABIT
 
 première interface:
 
